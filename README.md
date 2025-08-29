@@ -29,8 +29,3 @@
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
-
-## 📫 Contact Me  
-<p align="center">
-  <a href="mailto:shahejaaz451@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
