@@ -1,16 +1,34 @@
-## Hi there 👋
+# <h1>Hi 👋 I'm Sayed Ejaaz Shah</h1>  
 
-<!--
-**ejaazshah/ejaazshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h2>**  I am a Web Developer  **</h2>     
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F700&width=500&lines=I+am+a+Web+Developer;React+%7C+JavaScript+%7C+CSS+Lover;Always+Learning+New+Things)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p>
+  <img src="https://img.icons8.com/color/30/000000/worldwide-location.png"/> <b>Location:</b> Kabul, Afghanistan  
+</p>
+<p>
+  <img src="https://img.icons8.com/color/30/000000/code.png"/> <b>Focus:</b> Web Development  
+</p>
+<p>
+  <img src="https://img.icons8.com/color/30/000000/controller.png"/> <b>Fun facts:</b> I love swimming 🏊, playing chess ♟️, and video games 🎮  
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+</p>
+
+---
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Contact Me  
+<p align="center">
+  <a href="mailto:shahejaaz451@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
