@@ -12,9 +12,7 @@
 <p>
   <img src="https://img.icons8.com/color/30/000000/code.png"/> <b>Focus:</b> Web Development  
 </p>
-<p>
-  <img src="https://img.icons8.com/color/30/000000/controller.png"/> <b>Fun facts:</b> I love swimming 🏊, playing chess ♟️, and video games 🎮  
-</p>
+
 
 ---
 
