@@ -1,6 +1,6 @@
 # <h1>Hi 👋 I'm Sayed Ejaaz Shah</h1>  
 
- <h2>**  I am a Web Developer  **</h2>     
+ <h2>**  I am a Front-End  Web Developer  **</h2>     
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F700&width=500&lines=I+am+a+Web+Developer;React+%7C+JavaScript+%7C+CSS+Lover;Always+Learning+New+Things)
 
